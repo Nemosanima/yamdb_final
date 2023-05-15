@@ -12,7 +12,6 @@ services:
     env_file:
       - ./.env
   web:
-    platform: linux/x86_64
     image: nemosanima/yamdb_final:latest
     restart: always
     volumes:

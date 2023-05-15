@@ -8,7 +8,7 @@ SECRET_KEY = "p&l%385148kslhtyn^##a1)ilz@4zqj=rq&agdol^##zgl9(vs"
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['158.160.28.35']
+ALLOWED_HOSTS = ['*']
 
 # For model User
 AUTH_USER_MODEL = 'reviews.User'
