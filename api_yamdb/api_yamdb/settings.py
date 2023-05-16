@@ -10,7 +10,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     'localhost',
-    '158.160.28.35'
+    '130.193.55.163'
 ]
 
 # For model User
